@@ -14,11 +14,11 @@
 
 .footer img {
     margin-left: 10px;
-    transition: width 2s, height 2s, transform 2s;
+    /* transition: width 2s, height 2s, transform 1s; */
 }
 
 .footer img:hover {
     width: 40px;
     height: 40px;
-    transform: rotate(180deg);
+    transition: width 1s;
 }
