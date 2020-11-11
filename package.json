@@ -1,0 +1,23 @@
+{
+  "name": "comicbooker",
+  "version": "1.0.0",
+  "description": "simple app built with express to catalogue comic books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jnutterdev/comicbooker.git"
+  },
+  "author": "John Nutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnutterdev/comicbooker/issues"
+  },
+  "homepage": "https://github.com/jnutterdev/comicbooker#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
