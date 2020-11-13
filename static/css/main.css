@@ -1,3 +1,13 @@
+/* HEADER STYLES */
+
+.navbar-item img {
+    width: 50px;
+    height: auto;
+}
+
+
+/* FOOTER STYLES */
+
 .footer {
     display: flex;
     color: white;
