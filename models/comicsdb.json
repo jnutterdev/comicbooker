@@ -1,0 +1,18 @@
+{
+    "comics_table": [{
+        "id": 1,
+        "title": "X-men #100",
+        "img_url": "img/xmen.jpg",
+        "description": "The X-Men are aboard a space station with Stephen Lang, the director of an anti-mutant project known simply as Armageddon. Armageddon's goal? To wipe out all earth's mutants from the far-reaches of space! In such close quarters, tempers will surely flare."
+    }, {
+        "id": 2,
+        "title": "Marvel Super Heroes Secret Wars",
+        "img_url": "img/secretwars.jpg",
+        "description": "Collects Secret Wars (1984) #1-12. The first mega-crossover of its kind, SECRET WARS still stands as a milestone in the comic-book industry. The fate of the entire Marvel Universe hangs in the balance as all of Earth's greatest super heroes face their deadliest foes on the mysterious planet known as Battleworld! Featuring Spider-Man, Hulk and all your favorite heroes and villains!"
+    }, {
+        "id": 3,
+        "title": "Silver surfer #4",
+        "img_url": "img/silversurfer.jpg",
+        "description": "Loki, a master of deception, convinces Surfer that Thor is up to no good! An epic battle between two powerful forces commences!"
+    }]
+}
