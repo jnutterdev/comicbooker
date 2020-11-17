@@ -5,6 +5,10 @@
     height: auto;
 }
 
+.spacer {
+    margin-left: 12px;
+}
+
 
 /* FOOTER STYLES */
 
@@ -28,7 +32,5 @@
 }
 
 .footer img:hover {
-    width: 40px;
-    height: 40px;
-    transition: width 1s;
+    opacity: 0.5;
 }
